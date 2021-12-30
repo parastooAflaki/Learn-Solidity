@@ -1,3 +1,3 @@
-Contracts with solidity
+Contracts with Solidity
 ---
 
